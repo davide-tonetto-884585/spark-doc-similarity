@@ -1,5 +1,5 @@
 # Document Similarity using Spark
-This project aims to compute the similarity between documents using Spark. It offers a comparison between a sequential and a parallel implementation of the cosine similarity algorithm.
+This project aims to compute the similarity between documents using Spark. It compares a sequential and a parallel implementation of the cosine similarity algorithm. Please take a look at the report for further details.
 
 # Project structure
 The project is structured as follows:
